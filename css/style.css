@@ -116,7 +116,7 @@ footer{
     flex-direction: column;
     width: 49%;
     padding: 20px;
-    margin-left: 90px;
+
     align-items: center;
     flex-wrap: wrap;
 }
@@ -221,7 +221,7 @@ a{
 
 #mapa{
     height: 280px;
-    width: 455px
+    width: 400px
 }
 
 /* ------------------------------------------------------------ */
@@ -292,7 +292,7 @@ a{
 
     .todo{
         flex-direction: column;
-        width: 600px;
+        width: 400px;
         height: 100%;
         padding: 20px;
         flex-wrap: wrap;
@@ -310,46 +310,47 @@ a{
     }
 
     .nosotros{
-        width: 500px;
+        width: 400px;
     }
 
     .gris{
-        width: 500px;
+        width: 400px;
         padding: none;
         margin-top: none;
     }
 
     #img2{
-        width: 550px;
+        width: 450px;
     }
 
     .ficha{
-        width: 550px;
+        width: 400px;
     }
 
     .lado2{
-        width: 550px;
+        width: 400px;
         margin-left: 13px;
     }
 
     .form{
-        width: 550px;
+        width: 400px;
     }
 
     #contactoinput{
-        width: 550px;
+        width: 400px;
     }
 
     #mensaje{
-        width: 550px;
+        width: 400px;
     }
 
     #boton_mensaje{
-        width: 550px;
+        width: 400px;
     }
 
     .quehacemos{
-        margin-bottom: 20px;.
+        margin-bottom: 20px;
+        width: 400px;
     }
 
 }
